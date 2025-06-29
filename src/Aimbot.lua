@@ -100,7 +100,8 @@ getgenv().ExunysDeveloperAimbot = {
 		AliveCheck = true,
 		WallCheck = false,
 
-		OffsetToMoveDirection = false,
+		OffsetToMoveDirection = tru
+	e,
 		OffsetIncrement = 15,
 
 		Sensitivity = 0, -- Animation length (in seconds) before fully locking onto target
